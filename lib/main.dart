@@ -8,6 +8,6 @@ import 'ui/home.dart';
 
 void main() {
   runApp( new MaterialApp(
-    home: ScaffoldExample()
+    home: BizCard()
   ));
 }
